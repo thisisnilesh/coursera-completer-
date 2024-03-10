@@ -6,7 +6,6 @@ let HEADERS = {
     'x-coursera-application': 'ondemand',
     'x-coursera-version': 'cde5f24972aff1ebd6447e911113e781b9c52f7f',
     'x-requested-with': 'XMLHttpRequest',
-    'x-requested-with': 'XMLHttpRequest',
     'content-type': 'application/json; charset=UTF-8', 
 
 }
